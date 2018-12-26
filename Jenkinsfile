@@ -1,7 +1,7 @@
 #!/usr/bin/env groovy
-@Library('shared-lib@master') _
+@Library('shared-lib-dev@feature/cd-basic') _
 
 script {
-    cicdPipeline {
+    binanceCdPipeline {
     }
 }
