@@ -2,6 +2,6 @@
 @Library('shared-lib-dev@dev') _
 
 script {
-    binanceCdPipeline {
+    cicdPipeline {
     }
 }
