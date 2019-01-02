@@ -3,5 +3,6 @@
 
 script {
     cicdPipeline {
+        service = 'account'
     }
 }
