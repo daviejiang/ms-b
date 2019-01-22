@@ -3,6 +3,6 @@
 
 script {
     cicdPipeline {
-        service = 'account'
+        service = 'cicd-test-spy'
     }
 }
