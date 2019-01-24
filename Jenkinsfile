@@ -3,6 +3,6 @@
 
 script {
     cicdPipeline {
-        service = 'cicd-test-spy'
+        service = 'cd-agent'
     }
 }
